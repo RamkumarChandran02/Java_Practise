@@ -1,0 +1,6 @@
+
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ýøÌ€øÿÿÿÿ8ºæ®Ÿ–1
+o
+java:S6204'"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(™Ã‹à8ÿ€²¡›1
+U	java:S106("9Replace this use of System.out or System.err by a logger.(ú‚ž‘8½æ®Ÿ–1
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(ØŒ…ª8°Á°Ÿ–1
